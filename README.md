@@ -14,7 +14,7 @@ npm i
 
 ## Usage
 
-Tutorial Video: (Coming Soon)
+Walkthrough Video: (Coming Soon)
 
 ## Credits
 
